@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumik-ghoshal-b26784232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumik-ghoshal-b26784232/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/soumikkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/soumikkumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/soumik_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/soumik_7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@soumik_kumar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@soumik_kumar2001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/soumik_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/soumik_7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumik-ghoshal-b26784232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumik-ghoshal-b26784232" height="30" width="40" /></a>
+<a href="https://kaggle.com/soumikkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soumikkumar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/soumik_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="soumik_7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/soumik_kumar2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soumik_kumar2001" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/soumik_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="soumik_7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/soumikkumar200803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soumikkumar200803" height="30" width="40" /></a>
 </p>
 
